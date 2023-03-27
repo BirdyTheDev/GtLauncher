@@ -18,6 +18,6 @@ A Hacked Launcher For Growtopia With 20+ Features!
 ----------------------------------------------------------------------
 # Credits
 ----------------------------------------------------------------------
-- Some Enet Base's From https://github.com/byte-0x74/PlutoniumPrivate
+- Some Small Parts From: https://github.com/byte-0x74/PlutoniumPrivate
 ----------------------------------------------------------------------
 
