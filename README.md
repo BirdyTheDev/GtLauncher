@@ -15,6 +15,7 @@ A Hacked Launcher For Growtopia With 20+ Features!
 - Now U Can Change Bot Version And Serverip To Join For Private Servers
 - Added Gems Level And Current WorldLock Count
 - Removed Proxy Until 0.3 Have Bugs With Enet
+- Fixed Item Decode v15
 ----------------------------------------------------------------------
 # Credits
 ----------------------------------------------------------------------
