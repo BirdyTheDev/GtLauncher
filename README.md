@@ -2,7 +2,7 @@
 # https://discord.gg/ySx5pTKV5G Join For Help
 A Hacked Launcher For Growtopia With 20+ Features!
 -----------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/128981901/227797219-b81545bc-1ab3-487a-89ca-74e013225c8b.png)
+![image](https://user-images.githubusercontent.com/128981901/230797686-f54a687d-d37f-4206-9efe-833e2bf72a37.png)
 ![image](https://user-images.githubusercontent.com/128981901/230797484-01b8de2c-3e53-42cc-9b4e-5a37bf44150d.png)
 ![image](https://user-images.githubusercontent.com/128981901/228024783-a37089b3-88f9-465e-bcfd-0181052dde60.png)
 ![a](https://user-images.githubusercontent.com/128981901/230797649-d66f618a-6aaf-4213-ba05-cd134a0211e7.png)
