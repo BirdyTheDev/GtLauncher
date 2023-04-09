@@ -1,5 +1,5 @@
 # GtLauncher
-# https://discord.gg/ySx5pTKV5G Join For Help
+# https://discord.gg/cRpDtt5bFZ Join For Help
 A Hacked Launcher For Growtopia With 20+ Features!
 -----------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/128981901/230797686-f54a687d-d37f-4206-9efe-833e2bf72a37.png)
