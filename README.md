@@ -25,6 +25,8 @@ A Hacked Launcher For Growtopia With 20+ Features!
 - Added Proxy 
 - Added SaveStealer.xyz's Api U Can Now Login Stealed Accounts With 1 Click From Application
 - GUI Update And Website Update
+- Added SaveStealer.xyz'S Builder To GTLauncher
+- Added Proxy Support "Now U Can Acces Proxy Version 0.1-0.2"
 ----------------------------------------------------------------------
 # Credits
 ----------------------------------------------------------------------
